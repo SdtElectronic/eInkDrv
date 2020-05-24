@@ -1,0 +1,19 @@
+Comment,Description,Designator,Footprint,LibRef,Pins,Quantity,±àºÅ
+1u,Desc,"C1,C2,C3,C4,C5,C6,C7,C8,",C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,LibRef,2,8
+Conn_01x24,Desc,"J5,",TE_2-1734839-4_1x24-1MP_P0.5mm_Horizontal,LibRef,26,1
+Conn_01x34,Desc,"J6,",TE_3-1734839-4_1x34-1MP_P0.5mm_Horizontal,LibRef,36,1
+TestPoint,Desc,"TP1,TP2,",TestPoint_Pad_D1.0mm,LibRef,1,2
+1u,Desc,"C10,C11,C12,",C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,LibRef,2,3
+10u,Desc,"C9,",C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,LibRef,2,1
+D,Desc,"D1,D2,D3,",D_SOD-123,LibRef,2,3
+Conn_01x08,Desc,"J1,",TE_0-1734839-8_1x08-1MP_P0.5mm_Horizontal,LibRef,10,1
+100u,Desc,"L1,",L_Taiyo-Yuden_NR-30xx_HandSoldering,LibRef,2,1
+Q_NMOS_GSD,Desc,"Q1,",SOT-23,LibRef,3,1
+100k,Desc,"R1,",R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,LibRef,2,1
+0.47,Desc,"R2,",R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,LibRef,2,1
+AZ1117-3.3,Desc,"U1,",SOT-223,LibRef,4,1
+Through Hole Items 
+Conn_01x08,Desc,"J4,",PinHeader_1x08_P2.54mm_Vertical,LibRef,8,1
+TestPoint,Desc,"TP3,",TestPoint_THTPad_D2.5mm_Drill1.2mm,LibRef,1,1
+Conn_01x03,Desc,"J2,",PinHeader_1x03_P2.00mm_Horizontal,LibRef,3,1
+Conn_01x02,Desc,"J3,",PinHeader_1x02_P2.00mm_Horizontal,LibRef,2,1

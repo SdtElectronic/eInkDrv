@@ -1,0 +1,31 @@
+Designator,Footprint,Mid X,Mid Y,Ref X,Ref Y,Pad X,Pad Y,Layer,Rotation,Comment
+C1,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,23.862mm,4.953mm,23.862mm,4.953mm,22.987mm,4.953mm,T,0,1u
+C2,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,23.862mm,13.081mm,23.862mm,13.081mm,22.987mm,13.081mm,T,0,1u
+C3,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,23.862mm,20.193mm,23.862mm,20.193mm,22.987mm,20.193mm,T,0,1u
+C4,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,11.444mm,6.985mm,11.444mm,6.985mm,10.569mm,6.985mm,T,0,1u
+C5,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,23.862mm,6.985mm,23.862mm,6.985mm,22.987mm,6.985mm,T,0,1u
+C6,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,23.862mm,18.161mm,23.862mm,18.161mm,22.987mm,18.161mm,T,0,1u
+C7,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,23.862mm,9.017mm,23.862mm,9.017mm,22.987mm,9.017mm,T,0,1u
+C8,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,23.862mm,11.049mm,23.862mm,11.049mm,22.987mm,11.049mm,T,0,1u
+J5,TE_2-1734839-4_1x24-1MP_P0.5mm_Horizontal,16.891mm,14.605mm,16.891mm,14.605mm,18.241mm,20.355mm,T,270,Conn_01x24
+J6,TE_3-1734839-4_1x34-1MP_P0.5mm_Horizontal,2.763mm,14.605mm,2.763mm,14.605mm,4.113mm,22.855mm,T,270,Conn_01x34
+TP1,TestPoint_Pad_D1.0mm,1.524mm,19.177mm,1.524mm,19.177mm,1.524mm,19.177mm,T,0,TestPoint
+TP2,TestPoint_Pad_D1.0mm,1.524mm,16.129mm,1.524mm,16.129mm,1.524mm,16.129mm,T,0,TestPoint
+C10,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,10.795mm,13.081mm,10.795mm,13.081mm,10.795mm,13.956mm,B,270,1u
+C11,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,13.335mm,7.493mm,13.335mm,7.493mm,13.335mm,8.368mm,B,270,1u
+C12,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,10.795mm,7.493mm,10.795mm,7.493mm,10.795mm,8.368mm,B,270,1u
+C9,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,19.177mm,19.29mm,19.177mm,19.29mm,19.177mm,18.415mm,B,90,10u
+D1,D_SOD-123,7.747mm,13.081mm,7.747mm,13.081mm,7.747mm,14.731mm,B,270,D
+D2,D_SOD-123,13.335mm,13.081mm,13.335mm,13.081mm,13.335mm,11.431mm,B,90,D
+D3,D_SOD-123,7.747mm,7.493mm,7.747mm,7.493mm,7.747mm,9.143mm,B,270,D
+J1,TE_0-1734839-8_1x08-1MP_P0.5mm_Horizontal,30.861mm,14.614mm,30.861mm,14.614mm,32.211mm,12.864mm,B,90,Conn_01x08
+L1,L_Taiyo-Yuden_NR-30xx_HandSoldering,14.351mm,17.653mm,14.351mm,17.653mm,15.951mm,17.653mm,B,180,100u
+Q1,SOT-23,8.829mm,17.669mm,8.829mm,17.669mm,7.879mm,18.669mm,B,270,Q_NMOS_GSD
+R1,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,7.239mm,22.733mm,7.239mm,22.733mm,7.239mm,21.708mm,B,90,100k
+R2,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,10.287mm,22.742mm,10.287mm,22.742mm,10.287mm,21.717mm,B,90,0.47
+U1,SOT-223,19.939mm,13.081mm,19.939mm,13.081mm,23.089mm,15.381mm,B,180,AZ1117-3.3
+Through Hole Items 
+J4,PinHeader_1x08_P2.54mm_Vertical,35.941mm,5.715mm,35.941mm,5.715mm,35.941mm,5.715mm,T,180,Conn_01x08
+TP3,TestPoint_THTPad_D2.5mm_Drill1.2mm,21.971mm,23.368mm,21.971mm,23.368mm,21.971mm,23.368mm,T,0,TestPoint
+J2,PinHeader_1x03_P2.00mm_Horizontal,30.797mm,21.717mm,30.797mm,21.717mm,30.797mm,21.717mm,B,90,Conn_01x03
+J3,PinHeader_1x02_P2.00mm_Horizontal,27.559mm,7.493mm,27.559mm,7.493mm,27.559mm,7.493mm,B,270,Conn_01x02
