@@ -683,7 +683,7 @@ F 1 "Conn_01x03" H 1330 2601 50  0000 L CNN
 F 2 "Connector_PinHeader_2.00mm:PinHeader_1x03_P2.00mm_Horizontal" H 1250 2650 50  0001 C CNN
 F 3 "~" H 1250 2650 50  0001 C CNN
 	1    1250 2650
-	-1   0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Regulator_Linear:AZ1117-3.3 U1
